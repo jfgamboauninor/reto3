@@ -1,0 +1,36 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.f_chat_template.app-mergeDebugResources-14:/values-pt/values-pt.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Ing_Javier\\.gradle\\caches\\transforms-3\\23e06e0037e986ecfca1a224e3de038d\\transformed\\browser-1.4.0\\res\\values-pt\\values-pt.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,170,269,381",
+                        "endColumns": "114,98,111,105",
+                        "endOffsets": "165,264,376,482"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Ing_Javier\\.gradle\\caches\\transforms-3\\8ec8b658fd7f3b9c9ebaedf1d4c4158c\\transformed\\core-1.6.0\\res\\values-pt\\values-pt.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "6",
+                        "startColumns": "4",
+                        "startOffsets": "487",
+                        "endColumns": "100",
+                        "endOffsets": "583"
+                    }
+                }
+            ]
+        }
+    ]
+}

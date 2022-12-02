@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "805104029168",
+    "firebase_url": "https://chatuno-51c43-default-rtdb.firebaseio.com",
+    "project_id": "chatuno-51c43",
+    "storage_bucket": "chatuno-51c43.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:805104029168:android:0c5e11ac5cb1478659e135",
+        "android_client_info": {
+          "package_name": "com.example.f_chat_template"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "805104029168-69a1jnj4phkdbfdhfj4eq2d4o42hvmmk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBs9JQN-aP420kQnyTs6N0wBq35f13cCJI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "805104029168-69a1jnj4phkdbfdhfj4eq2d4o42hvmmk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
